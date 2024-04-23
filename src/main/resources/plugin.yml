@@ -2,5 +2,6 @@ name: CLDiscordAddon
 version: 1.0
 main: com.HungNguyen.CLDiscord
 author: HungNguy4n
+website: https://github.com/HungNguy4n/CLDiscordAddon
 description: CLDiscordAddon CheckLink
 api-version: 1.13
